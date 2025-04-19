@@ -43,5 +43,18 @@ git add <nome-do-arquivo>
 # Ou adicionar todos
 git add .
 
+# Realizar um commit
+git commit -m "Mensagem do commit" -m "Descrição do commit"
+
+# Enviar alterações para o GitHub
+git push origin <nome-da-branch>
+
+# Criar uma nova branch
+git checkout -b <nome-da-branch>
+
+# Alternar entre branches
+git checkout <nome-da-branch>
+```
+
 
 
