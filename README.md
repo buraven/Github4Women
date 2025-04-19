@@ -56,5 +56,24 @@ git checkout -b <nome-da-branch>
 git checkout <nome-da-branch>
 ```
 
+## Estrutura do repositório
 
+```
+GitHub-4-Women/
+|__ exemplo.txt
+|__ README.md
+|__ template/
+    |__ exemplo.txt
+```
 
+## Licença
+
+Este projeto está licenciado sob licença [MIT](LICENSE)
+
+## Créditos
+
+Esta aula é parte da iniciativa **GitHub4Women**, com apoio das organizações:
+
+- [Microsoft](https://www.microsoft.com/)
+- [WoMakersCode](https://www.maismulheres.tech/users/sign_in)
+- [Mais Mulheres em Tech](https://www.maismulheres.tech)
